@@ -56,7 +56,7 @@
 
 <h3>Debugging:</h3>
 <ul>
-  <li>PHPUnit, Xdebug</li>
+  <li>Xdebug</li>
 </ul>
 
 <h3>Cloud:</h3>
