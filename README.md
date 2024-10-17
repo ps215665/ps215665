@@ -46,7 +46,7 @@
 
 <h3>DevOps & CI/CD:</h3>
 <ul>
-  <li>Docker,Jenkins/li>
+  <li>Docker,Jenkins</li>
 </ul>
 
 <h3>Database Management:</h3>
