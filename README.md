@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/ps215665" target="_blank">Prakul Kumar Sharma</a>! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Backend+Engineer;PHP+%26+Python+Developer;Adobe+Commerce+Architect;Scalable+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Backend+Engineer;PHP+%26+Python+Developer;Adobe+Commerce+Expert;Scalable+System+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
