@@ -1,73 +1,52 @@
-<h1>Hi there! 👋 </h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/ps215665" target="_blank">Prakul Kumar Sharma</a>! 👋</h1>
 
-<p>Welcome to my GitHub profile! I'm an experienced Magento Developer with a passion for building scalable, high-performance eCommerce solutions. While my primary expertise is in Magento 2, I am also familiar with Laravel and Shopify, allowing me to work across various platforms and technologies. I specialize in creating custom modules, optimizing performance, and integrating third-party services.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Backend+Engineer;PHP+%26+Python+Developer;Adobe+Commerce+Architect;Scalable+System+Design" alt="Typing SVG" />
+</p>
 
-<h2>💻 What I Do:</h2>
+<p align="center">
+  <em>Architecting robust, scalable backend solutions across PHP and Python ecosystems.</em>
+</p>
 
-<h3>🔥 Magento 2 Expertise:</h3>
-<ul>
-  <li>🛠 <strong>Custom Module Development</strong>: Building powerful, bespoke Magento 2 modules, utilizing best practices for module registration, routing, and plugin/observer patterns.</li>
-  <li>🎨 <strong>Theme Customization</strong>: Crafting responsive, SEO-optimized themes using Magento UI Components and Knockout.js for interactive, dynamic content.</li>
-  <li>🔧 <strong>Backend Development</strong>: Implementing features like catalog management, order processing, and customer management using PHP, MySQL, and Magento's Repository pattern.</li>
-  <li>⚡ <strong>Performance Optimization</strong>: Enhancing Magento performance using Varnish, Redis, Full Page Cache (FPC), and optimizing SQL queries to handle high-traffic loads.</li>
-  <li>🔌 <strong>API Integrations</strong>: Connecting Magento to third-party systems via REST/SOAP APIs, including payment gateways, CRMs, and ERP systems.</li>
-  <li>🛠 <strong>Magento Architecture</strong>: Strong knowledge of Dependency Injection (DI), service contracts, event observers, and plugin systems for scalable and maintainable extensions.</li>
-</ul>
+<hr/>
 
-<h3>🐘 Laravel Development:</h3>
-<ul>
-  <li>🎯 Building clean, maintainable applications using MVC architecture, Eloquent ORM, and Blade templates.</li>
-  <li>🔄 Creating RESTful APIs for seamless integrations.</li>
-  <li>🔐 Adhering to SOLID principles to ensure secure, scalable code.</li>
-</ul>
+### 👨‍💻 About Me
+I am an experienced **Backend Developer** focused on building high-performance web applications and enterprise eCommerce platforms. My expertise spans the full backend lifecycle—from architecting database schemas and optimizing SQL queries to deploying microservices on the cloud.
 
-<h3>🛍️ Shopify Development:</h3>
-<ul>
-  <li>🛠 Customizing Shopify themes.</li>
-  <li>📦 Building solutions that enhance the functionality of Shopify stores.</li>
-</ul>
+I bridge the gap between heavy enterprise architecture (Adobe Commerce) and modern, fast-paced application development (Laravel, FastAPI).
 
-<h2>🛠 Tech Stack & Tools:</h2>
+- 🛠 I specialize in **System Architecture, API Design (REST/GraphQL), and Performance Optimization**.
+- ☁️ Experienced with **Adobe Commerce Cloud & AWS** infrastructure.
 
-<h3>Languages & Frameworks:</h3>
-<ul>
-  <li>PHP, JavaScript, Laravel, Magento, Shopify</li>
-</ul>
+---
 
-<h3>Frontend:</h3>
-<ul>
-  <li>React, Vue.js, Knockout.js</li>
-</ul>
+### 🛠 The Arsenal
 
-<h3>Version Control:</h3>
-<ul>
-  <li>Git, GitHub, Bitbucket</li>
-</ul>
+<div align="center">
 
-<h3>DevOps & CI/CD:</h3>
-<ul>
-  <li>Docker,Jenkins</li>
-</ul>
+| **Languages** | **Backend Frameworks** | **Cloud & DevOps** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/Adobe%20Cloud-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
 
-<h3>Database Management:</h3>
-<ul>
-  <li>MySQL, MongoDB</li>
-</ul>
+| **Databases & Cache** | **Frontend (Fullstack Capable)** | **Tools & APIs** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> | <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Xdebug-5A2C17?style=for-the-badge&logo=php&logoColor=white" /> |
 
-<h3>Debugging:</h3>
-<ul>
-  <li>Xdebug</li>
-</ul>
+</div>
 
-<h3>Cloud:</h3>
-<ul>
-  <li>AWS</li>
-</ul>
+---
 
-<h2>🚀 What I Bring to the Table:</h2>
-<ul>
-  <li>Over 5 years of experience building, optimizing, and maintaining Magento eCommerce stores.</li>
-  <li>Proficiency in both frontend and backend Magento development.</li>
-  <li>Familiarity with Laravel and Shopify development, offering multi-platform eCommerce solutions.</li>
-  <li>Focus on performance optimization, ensuring that sites are fast, secure, and scalable.</li>
-</ul>
+### 🔥 Engineering Capabilities
+
+| Domain | Proficiency |
+| :--- | :--- |
+| **Enterprise eCommerce** | **Adobe Commerce Cloud (Magento 2):** Custom module development, Enterprise Cloud architecture (ECE), Service Contracts, and extensive experience with the complex Magento ORM. |
+| **Modern Application Dev** | **Laravel & Python (FastAPI):** Building clean, MVC-based PHP applications and high-speed Python microservices for data processing and API handling. |
+| **Performance Engineering** | Implementing **Varnish & Redis** caching strategies, optimizing heavy **SQL** queries, and utilizing **Elasticsearch/OpenSearch** for rapid data retrieval. |
+| **Integrations** | Connecting disparate systems (ERP, CRM, PIM) via robust **REST** and **SOAP** APIs, and implementing modern **GraphQL** schemas. |
+
+---
+
+<p align="center">
+  <b>Let's build something scalable.</b><br/>
+</p>
