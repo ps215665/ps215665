@@ -1,6 +1,6 @@
 <h1>Hi there! 👋 </h1>
 
-<p>Welcome to my GitHub profile! I'm an experienced Magento Developer with a passion for building scalable, high-performance eCommerce solutions. While my primary expertise is in Magento 2, I am also familiar with Laravel and Shopify, allowing me to work across various platforms and technologies. I specialize in creating custom modules, optimizing performance, and integrating third-party services.</p>
+<p>Welcome to my GitHub profile! I'm an experienced Magento Developer with a passion for building scalable, high-performance eCommerce solutions. While my primary expertise is in Magento 2, I am also familiar with Commercetools and Shopify, allowing me to work across various platforms and technologies. I specialize in creating custom modules, optimizing performance, and integrating third-party services.</p>
 
 <h2>💻 What I Do:</h2>
 
@@ -14,13 +14,6 @@
   <li>🛠 <strong>Magento Architecture</strong>: Strong knowledge of Dependency Injection (DI), service contracts, event observers, and plugin systems for scalable and maintainable extensions.</li>
 </ul>
 
-<h3>🐘 Laravel Development:</h3>
-<ul>
-  <li>🎯 Building clean, maintainable applications using MVC architecture, Eloquent ORM, and Blade templates.</li>
-  <li>🔄 Creating RESTful APIs for seamless integrations.</li>
-  <li>🔐 Adhering to SOLID principles to ensure secure, scalable code.</li>
-</ul>
-
 <h3>🛍️ Shopify Development:</h3>
 <ul>
   <li>🛠 Customizing Shopify themes.</li>
@@ -31,7 +24,7 @@
 
 <h3>Languages & Frameworks:</h3>
 <ul>
-  <li>PHP, JavaScript, Laravel, Magento, Shopify</li>
+  <li>PHP, JavaScript, Magento, Shopify</li>
 </ul>
 
 <h3>Frontend:</h3>
